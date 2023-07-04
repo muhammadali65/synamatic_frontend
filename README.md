@@ -1,8 +1,8 @@
 # Getting Started with Create React App
 
-# Live Frontend Demo  [https://synamaticfrontend.muhammadali651.repl.co/]
+# [Live Frontend Demo ](https://synamaticfrontend.muhammadali651.repl.co/)
 
-#Live Api Demon [https://synamatic.muhammadali651.repl.co/]
+#[Live Api Demon](https://synamatic.muhammadali651.repl.co/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
